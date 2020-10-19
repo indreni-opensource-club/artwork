@@ -5,7 +5,7 @@ Not all people are interested in coding.. Know Graphic Designing? Contribute Her
 - Creative Designs that people can inspire themselves
 
 ## Languages and Platforms:
-- No coding
+- No coding required
 
 ## What to Do?
 - Fork this repo
